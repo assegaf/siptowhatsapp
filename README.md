@@ -6,12 +6,6 @@ What we are doing is showing that this is possible, and possibility for other me
 
 Please be noted that this project not allowed to modify the WhatsApp Application Messaging (apk), so you must able to do converting data via Android Framework AOSP side.
 
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/watch?v=4i-T6dpGk2g" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/watch?v=4i-T6dpGk2g"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+[![Preview](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=4i-T6dpGk2g)
 
 
