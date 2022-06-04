@@ -5,7 +5,7 @@ This also converting WhatsApp Voice Call to SIP Extension / Openpbx (which calle
 What we are doing is showing that this is possible, and possibility for other messaging/voice call platform too like Viber and Telegram.
 
 Please be noted that this project not allowed to modify the WhatsApp Application Messaging (apk), so you must able to do converting data via Android Framework AOSP side.
-
-[![Preview](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=4i-T6dpGk2g)
+[![Preview]([https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://i.ytimg.com/vi/61ELWtiAFx0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfO5lcDy5CQ4qTfubXHeoYIPeSAw
+))](https://www.youtube.com/watch?v=4i-T6dpGk2g)
 
 
