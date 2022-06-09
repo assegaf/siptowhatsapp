@@ -35,7 +35,7 @@ both way will dial the whatsapp destination number, until you hang up the call o
 # sip.linphone.org
 
 You can register here https://www.linphone.org/freesip/home for sip free account,
-The destination of call of whatsapp number is the same as sip2sip.info, to put in Display name or Caller ID, or dial via DTMF tones while on call. You can dial account sip2wa, to start testing our Sip to WhatsApp gateway.
+The destination of call of whatsapp number is the same as sip2sip.info, to put in Display name or Caller ID, or dial via DTMF tones while on call. You can dial account "sip2wa" as picture sample below, to start testing our Sip to WhatsApp gateway.
 
 ![linphone_sip2wa_dial](https://user-images.githubusercontent.com/551532/172809395-e875c9ab-c364-433a-9be4-7b061e93c4df.png)
 
@@ -43,7 +43,7 @@ The destination of call of whatsapp number is the same as sip2sip.info, to put i
 # sip.antisip.com
 
 You can register here https://sip.antisip.com/service/ for sip free account,
-The destination of call of whatsapp number is the same as sip2sip.info, to put in Display name or Caller ID, or dial via DTMF tones while on call. You can dial account sip2wa, to start testing our Sip to WhatsApp gateway.
+The destination of call of whatsapp number is the same as sip2sip.info, to put in Display name or Caller ID, or dial via DTMF tones while on call. You can dial account "sip2wa" as picture sample below, to start testing our Sip to WhatsApp gateway.
 
 ![antisip_sip2wa_dial](https://user-images.githubusercontent.com/551532/172822728-898d5fbd-3aff-4b22-9cc7-68946fcab15c.png)
 
