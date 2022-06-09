@@ -8,7 +8,11 @@ Please be noted that this project not allowed to modify the WhatsApp Application
 
 Stay tuned we will open a demo using public sip sample like sip.linphone.org and sip2sip.info, we are looking people who want to invest this product to interconnect the existing openpbx service to add more interconnectivity like whatsapp.
 
-Demo sip2wa using Public Sip Server.
+Demo sip2wa using Public Sip Server, with common used codec that used by all this free sip server, which is G.711, as example as below :
+
+![Codec-PCMU](https://user-images.githubusercontent.com/551532/172825437-55db476f-3f6c-4be2-b882-32101d9bc4dc.png)
+
+
 
 # sip2sip.info
 
