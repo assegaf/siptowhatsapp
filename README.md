@@ -19,17 +19,16 @@ You can register here http://www.sip2sip.info for Sip account and use SIP phone 
 and what about destination number of whatsapp account ? 
 there is 2 way :
 
-a. Put your destination number of whatsapp you want to call to Display name / Caller Id of your accounts. Eg: "628979993336" as A caller id/ display name.
+a. Put your destination number of whatsapp you want to call to Display name / Caller Id of your accounts. Eg: "628979993336" as A caller id/ display name, as example see this below picture.
 
 ![sip2sip_accountcli](https://user-images.githubusercontent.com/551532/172806660-4220fdb5-1d0a-44b0-8d0d-90c9b49cb4ea.png)
 
-b. After introduction you will be asked to put destination number via dial pad (Sending DTMF tones), then press # to finish input the number and dial the destination whatsapp number.
+b. After introduction you will be asked to put destination number via dial pad (Sending DTMF tones), then press # to finish input the number and dial the destination whatsapp number. Press the dialpad after introduction finished.
 
 ![sip2sip_dialpad](https://user-images.githubusercontent.com/551532/172807341-98538408-9ff8-4001-b42c-6047481f5206.png)
 
 
 both way will dial the whatsapp destination number, until you hang up the call or destination whatsapp number hang up first.
-
 
 
 # sip.linphone.org
