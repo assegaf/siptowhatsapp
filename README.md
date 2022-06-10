@@ -29,18 +29,18 @@ a. Put your destination number of whatsapp you want to call to Display name / Ca
 
 ![sip2sip_accountcli](https://user-images.githubusercontent.com/551532/172806660-4220fdb5-1d0a-44b0-8d0d-90c9b49cb4ea.png)
 
-b. After introduction you will be asked to put destination number via dial pad (Sending DTMF tones), then press # to finish input the number and dial the destination whatsapp number. Press the dialpad after introduction finished.
+b. After introduction you will be asked to put destination number via dial pad (Sending DTMF tones), then press # to finish input the number and dial the destination whatsapp number. Press the dialpad after introduction finished, not in ongoing introduction.
 
 ![sip2sip_dialpad](https://user-images.githubusercontent.com/551532/172807341-98538408-9ff8-4001-b42c-6047481f5206.png)
 
 
-both way will dial the whatsapp destination number, until you hang up the call or destination whatsapp number hang up first.
+both way will dial the whatsapp destination number, until you hang up the call or destination whatsapp account hang up first.
 
 
 # sip.linphone.org
 
 You can register here https://www.linphone.org/freesip/home for sip free account,
-The destination of call of whatsapp number is the same as sip2sip.info, to put in Display name or Caller ID, or dial via DTMF tones while on call. You can dial account "sip2wa" as picture sample below, to start testing our Sip to WhatsApp gateway.
+The destination of call of whatsapp number is the same method as above, to put in Display name or Caller ID, or dial via DTMF tones while on call. You can dial account "sip2wa" as picture sample below, to start testing our Sip to WhatsApp gateway.
 
 ![linphone_sip2wa_dial](https://user-images.githubusercontent.com/551532/172809395-e875c9ab-c364-433a-9be4-7b061e93c4df.png)
 
@@ -48,12 +48,12 @@ The destination of call of whatsapp number is the same as sip2sip.info, to put i
 # sip.antisip.com
 
 You can register here https://sip.antisip.com/service/ for sip free account,
-The destination of call of whatsapp number is the same as sip2sip.info, to put in Display name or Caller ID, or dial via DTMF tones while on call. You can dial account "sip2wa" as picture sample below, to start testing our Sip to WhatsApp gateway.
+The destination of call of whatsapp number is the same as above, to put in Display name or Caller ID, or dial via DTMF tones while on call. You can dial account "sip2wa" as picture sample below, to start testing our Sip to WhatsApp gateway.
 
 ![antisip_sip2wa_dial](https://user-images.githubusercontent.com/551532/172822728-898d5fbd-3aff-4b22-9cc7-68946fcab15c.png)
 
 
 # Conclusion
 
-all the demo is using free sip server, if you have own server you can have dial plan as easy as possibe example, to specific international number and, contact us to have demo to your own server, and possibly own deployment.
+all the demo is using free sip server, if you have own server you can have dial plan as easy as possibe example, to specify easier international number or use prefix as dialplan pattern when calling to whatsapp number, contact us to have demo to your own server, and possibly own deployment.
 
