@@ -68,7 +68,7 @@ this is demo is limited to use G711, which most free sip server capable and only
 
 **b. I always got busy signal when trying to dial the demo ?**
 
-this is demo is limited to single line, by free sip server and by our equipment as well. So please wait until our line sing idle or available.
+this is demo is limited to single line, by free sip server and by our equipment as well. So please wait until our line is idle or available.
 
 **c. Is it possible to have our deployment in our office ?**
 
