@@ -62,7 +62,7 @@ all the demo is using free sip server, if you have own server you can have dial 
 
 **a. Sound Quality not as good as usually ?**
 
-this is demo is limited to use G711, which most free sip server capable and only use 8k bit sample rate, which is not HD Audio. so WhatsApp call audio quality is somehow degraded on the way.
+this is demo is limited to use G711, which most free sip server capable and only use 8k bit sample rate, which is not HD Audio. so WhatsApp call audio quality is somehow degraded on the way. If not using free sip server, we use G722 codec which is HD Audio, seem much better.
 
 **b. I always got busy signal when trying to dial the demo ?**
 
