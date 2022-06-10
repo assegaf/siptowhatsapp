@@ -4,6 +4,9 @@ This also converting WhatsApp Voice Call to SIP Extension / Openpbx (which calle
 
 I made presentation for the project in 2020, for possibly some company invest this, and 2022 has come yet.
 
+[![Presentation Sip2Wa 2020](https://img.youtube.com/vi/_dznZM47sLs/0.jpg)](https://www.youtube.com/watch?v=_dznZM47sLs)
+
+
 What we are doing is showing that this is possible, and possibility for other messaging/voice call platform too like Viber and Telegram.
 
 Please be noted that this project not allowed to modify the WhatsApp Application Messaging (apk), so you must able to do converting data via Android Framework AOSP side, which is fully open source.
