@@ -23,18 +23,20 @@ You can register here http://www.sip2sip.info for Sip account and use SIP phone 
 ![sip2sip_sip2wa_dial](https://user-images.githubusercontent.com/551532/172806138-b3708740-50b1-4db7-ad48-b2e7508e66ce.png)
 
 and what about destination number of whatsapp account ? 
-there is 2 way :
+there is 2 way to call destination number :
 
-a. Put your destination number of whatsapp you want to call to Display name / Caller Id of your accounts. Eg: "628979993336" as A caller id/ display name, as example see this below picture.
+a. Put your destination number of whatsapp you want to call to Display name / Caller Id of your accounts. Eg: "628979993336" as A caller id/ display name, as example see this below picture. 
 
 ![sip2sip_accountcli](https://user-images.githubusercontent.com/551532/172806660-4220fdb5-1d0a-44b0-8d0d-90c9b49cb4ea.png)
+
+for example in Linphone software, the destination number is set on SIP Address as above, with inside quote.
 
 b. After introduction you will be asked to put destination number via dial pad (Sending DTMF tones), then press # to finish input the number and dial the destination whatsapp number. Press the dialpad after introduction finished, not in ongoing introduction. Use international format with country code, and without "+" prefix, example: 628979993336, 62 is indonesian country code.
 
 ![sip2sip_dialpad](https://user-images.githubusercontent.com/551532/172807341-98538408-9ff8-4001-b42c-6047481f5206.png)
 
 
-both way will dial the whatsapp destination number, until you hang up the call or destination whatsapp account hang up first.
+both way will dial the whatsapp destination number, until you hang up the call (in your sip session call) or destination whatsapp account hang up first.
 
 
 # sip.linphone.org
@@ -58,7 +60,7 @@ The destination of call of whatsapp number is the same as above, to put in Displ
 all the demo is using free sip server, if you have own server you can have dial plan as easy as possibe example, to specify easier international number or use prefix as dialplan pattern when calling to whatsapp number, contact us to have demo to your own server, and possibly own deployment.
 
 
-# F.A.Q
+# F.A.Q.
 
 **a. Sound Quality not as good as usually ?**
 
