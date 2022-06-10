@@ -29,7 +29,7 @@ a. Put your destination number of whatsapp you want to call to Display name / Ca
 
 ![sip2sip_accountcli](https://user-images.githubusercontent.com/551532/172806660-4220fdb5-1d0a-44b0-8d0d-90c9b49cb4ea.png)
 
-b. After introduction you will be asked to put destination number via dial pad (Sending DTMF tones), then press # to finish input the number and dial the destination whatsapp number. Press the dialpad after introduction finished, not in ongoing introduction.
+b. After introduction you will be asked to put destination number via dial pad (Sending DTMF tones), then press # to finish input the number and dial the destination whatsapp number. Press the dialpad after introduction finished, not in ongoing introduction. Use international format with country code, and without "+" prefix, example: 628979993336, 62 is indonesian country code.
 
 ![sip2sip_dialpad](https://user-images.githubusercontent.com/551532/172807341-98538408-9ff8-4001-b42c-6047481f5206.png)
 
