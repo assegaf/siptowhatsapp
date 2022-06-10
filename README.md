@@ -57,3 +57,21 @@ The destination of call of whatsapp number is the same as above, to put in Displ
 
 all the demo is using free sip server, if you have own server you can have dial plan as easy as possibe example, to specify easier international number or use prefix as dialplan pattern when calling to whatsapp number, contact us to have demo to your own server, and possibly own deployment.
 
+
+# F.A.Q
+
+**a. Sound Quality not as good as usually ?**
+
+this is demo is limited to use G711, which most free sip server capable and only use 8k bit sample rate, which is not HD Audio. so WhatsApp call audio quality is somehow degraded on the way.
+
+**b. I always got busy signal when trying to dial the demo ?**
+
+this is demo is limited to single line, by free sip server and by our equipment as well. So please wait until our line sing idle or available.
+
+**c. Is it possible to have our deployment in our office ?**
+
+Possibe, contact us for deployment with special good price.
+
+
+
+
