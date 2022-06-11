@@ -63,7 +63,7 @@ The destination of call of whatsapp number is the same as above, to put in Displ
 
 You can dial our whatsapp number account +62 858 8131 3764 for testing our inbound routing, we will auto accept the call and will be forwarded to our Openpbx Dial plan for voice testing auto reply, this is a prof that we can use inbound too for showing voice reply and further action can be defined, example: forwarding to predefined extension on PBX system.
 
-Out whatsapp inbound will be alive from now on, until we say otherwise
+Our whatsapp inbound will be alive from now on, until we say otherwise
 
 # Conclusion
 
