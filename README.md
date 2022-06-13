@@ -69,6 +69,11 @@ Our whatsapp inbound will be alive from now on, until we say otherwise
 
 all the demo is using free sip server, if you have own server you can have dial plan as easy as possibe example, to specify easier international number or use prefix as dialplan pattern when calling to whatsapp number, contact us to have demo to your own server, and possibly own deployment.
 
+This is a sample how things work and logs of the process.
+
+[![Presentation Sip2Wa 2020](https://img.youtube.com/vi/k79D6ZYYMzg/0.jpg)](https://www.youtube.com/watch?v=k79D6ZYYMzg)
+(click for see the presentation in youtube)
+
 
 # F.A.Q.
 
