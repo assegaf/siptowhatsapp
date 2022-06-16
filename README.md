@@ -59,16 +59,18 @@ The destination of call of whatsapp number is the same as above, to put in Displ
 
 ![antisip_sip2wa_dial](https://user-images.githubusercontent.com/551532/172822728-898d5fbd-3aff-4b22-9cc7-68946fcab15c.png)
 
-# Inbound testing
+# Voice Inbound testing
 
 You can dial our whatsapp number account +62 858 8131 3764 for testing our inbound routing, we will auto accept the call and will be forwarded to our Openpbx Dial plan for voice testing auto reply, this is a prof that we can use inbound too for showing voice reply and further action can be defined, example: forwarding to predefined extension on PBX system.
 
 Our whatsapp inbound will be alive from now on, until we say otherwise
 
 
-# Messaging Inbound
+# Messaging Inbound testing
 
-For messaging inbound, we forward the private's message this number (as message inbound) to the first group its registered to, to that it will notice all member of group (eg. one department) there is incoming new message inbound to this number, so that member can follow up with quoted message or dial up from sip2whatsapp gateway pabx.
+For messaging inbound, we forward the private's message this number (as message inbound) to the first group its registered to, to that it will notice all member of group (eg. one department) there is incoming new message inbound to this number, so that member can follow up with quoted message or dial up from sip2whatsapp gateway pabx. You can message our whatsapp number for a test as a guest/customer, +62 858 8131 3764 
+
+
 
 
 
@@ -96,6 +98,13 @@ this is demo is limited to single line, by free sip server and by our equipment 
 
 Possibe, contact us for deployment with special good price.
 
+**d. Do you have free testing 1 week or 2 week, just to make sure this is what we need ?**
+
+Yes, you can test our dedicated service using your own whatsapp account, we host it here. Then you can connect as sip trunk to your IP Pbx, as a test inbound/outbound.
+
+**e. Do you have non-cli solution perminute for outbound call only ?
+
+We provide non-cli solution per minute, as SIP Trunk, price varies per country. Contact us for pricing.
 
 
 
