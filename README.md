@@ -65,6 +65,13 @@ You can dial our whatsapp number account +62 858 8131 3764 for testing our inbou
 
 Our whatsapp inbound will be alive from now on, until we say otherwise
 
+
+# Messaging Inbound
+
+For messaging inbound, we forward the private's message this number (as message inbound) to the first group its registered to, to that it will notice all member of group (eg. one department) there is incoming new message inbound to this number, so that member can follow up with quoted message or dial up from sip2whatsapp gateway pabx.
+
+
+
 # Conclusion
 
 all the demo is using free sip server, if you have own server you can have dial plan as easy as possibe example, to specify easier international number or use prefix as dialplan pattern when calling to whatsapp number, contact us to have demo to your own server, and possibly own deployment.
