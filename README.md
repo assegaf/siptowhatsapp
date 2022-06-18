@@ -1,6 +1,6 @@
 # on going
 
-on going process .. is adding SIP to GSM Gateway from inside android, everything is there on AOSP just need little bit tweaking :) similar to this : https://www.pure-voip.com/
+on going process .. is adding SIP to GSM Gateway from inside android (4G Lte), everything is there on AOSP just need little bit tweaking :) similar to this : https://www.pure-voip.com/ . sooner or later 2g/3g will be dead, and 4g still long ..
 
 investment, etc .. 
 
