@@ -13,9 +13,9 @@ What we are doing is showing that this is possible, and possibility for other me
 
 Please be noted that this project not allowed to modify the WhatsApp Application Messaging (apk), so you must able to do converting data via Android Framework AOSP side, which is fully open source.
 
-Stay tuned we will open a demo using public sip sample like sip.linphone.org and sip2sip.info, we are looking people who want to invest this product to interconnect the existing openpbx service to add more interconnectivity like whatsapp.
+Stay tuned we will open a demo using public sip sample like sip.linphone.org and sip2sip.info, sip.antisip.com, we are looking people who want to invest this product to interconnect the existing openpbx service to add more interconnectivity like whatsapp.
 
-**The demo is ready, if you get busy signal means the single line of demo is still being used by other user. Please wait.**
+**The demo is ready, if you get busy signal means the single line of demo is still being used by other user. Please wait. You will get a message reply saying that the line busy, this is a sample for hunting like inbound system. Receive inbound altough already online-call. **
 
 Demo sip2wa using Public Sip Server, with common used codec that used by all this free sip server, which is G.711, as example as below :
 
