@@ -98,7 +98,7 @@ this is demo is limited to single line, by free sip server and by our equipment 
 
 **c. Is it possible to have our deployment in our office ?**
 
-Possibe, contact us for deployment with special good price.
+Possibe, contact us for deployment with special good price. It need lots of requirement, including on-site deployment, devices set-up, and many more.
 
 **d. Do you have free testing 1 week or 2 week, just to make sure this is what we need ?**
 
@@ -107,6 +107,10 @@ Yes, you can test our dedicated service using your own whatsapp account, we host
 **e. Do you have non-cli solution perminute for outbound call only ?
 
 We provide non-cli solution per minute, as SIP Trunk, price varies per country. Contact us for pricing.
+
+**f. What is the limitation for Dedicated Services (unlimited call inbound/outbound).
+
+We provide the dedicated services means the whatsapp number account is from the customer it self, it commonly used for inbound/outbound PABX. So customer responsible for the outgoing call number that will affect the account life. Example customer can put limitation only allow outgoing call to X after has minimal once, inbound call or message from X previously. If people report the whatsapp account number as it receiving call without previously saved the number, its affect its account lifecycle.
 
 
 
