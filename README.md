@@ -112,6 +112,7 @@ We provide non-cli solution per minute, as SIP Trunk, price varies per country. 
 
 We provide the dedicated services means the whatsapp number account is from the customer it self, it commonly used for inbound/outbound PABX. So customer responsible for the outgoing call number that will affect the account life. Example customer can put limitation only allow outgoing call to X after has minimal once, inbound call or message from X previously. If people report the whatsapp account number as it receiving call without previously saved the number, its affect its account lifecycle.
 
+Downtime, when our internet connection is down, we also will experience the same service downtime. No Exception, best server for IP PBX Server nearby is Singapore. Keep it in mind.
 
 
 
