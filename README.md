@@ -27,6 +27,7 @@ For inter connecting sip2wa to your ip pbx server or someone called it softswitc
 
 **e. You have tested this demo below and its working in your environment.**
 
+**f. When you dialing someone on whatsapp that are offline-internet connection, you will still see the ringing and dialing status until few seconds trying until whatsapp stop itself trying to dialing the number, you cannot expect dialing non whatsapp number to be Fail/Disconnected right away.**
 
 
 Stay tuned we will open a demo using public sip sample like sip.linphone.org and sip2sip.info, sip.antisip.com, we are looking people who want to invest this product to interconnect the existing openpbx service to add more interconnectivity like whatsapp.
