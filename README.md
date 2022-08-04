@@ -27,7 +27,7 @@ For inter connecting sip2wa to your ip pbx server or someone called it softswitc
 
 **e. You have tested this demo below and its working in your environment.**
 
-**f. When you dialing someone on whatsapp that are offline-internet connection, you will still see the ringing and dialing status until few seconds trying until whatsapp stop itself trying to dialing the number, you cannot expect dialing non whatsapp number to be Fail/Disconnected right away.**
+**f. When you dialing someone on whatsapp that are offline-internet connection, you will still see the ringing and dialing status until few seconds trying until whatsapp stop itself trying to dialing the number, you cannot expect dialing non whatsapp number or offline-internet whatsapp account to be Fail/Disconnected right away.**
 
 **g. Try learn how whatsapp call on mobile phone work, if its work that way, our sip2wa system will work that way too. No Exception.**
 
