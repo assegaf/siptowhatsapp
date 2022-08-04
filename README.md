@@ -11,7 +11,7 @@ I made presentation for the project in 2020, for possibly some company invest th
 
 What we are doing is showing that this is possible, and possibility for other messaging/voice call platform too like Viber and Telegram.
 
-Please be noted that this project not allowed to modify the WhatsApp Application Messaging (apk), so you must able to do converting data via Android Framework AOSP side, which is fully open source.
+Please be noted that this project not allowed to modify the WhatsApp Application Messaging (apk), so we must able to do converting data via Android Framework AOSP side, which is fully open source.
 
 # Interconnection With Your SIP Server ( READ THIS !!!! before you have idea of something )
 For inter connecting sip2wa to your ip pbx server or someone called it softswitch, this is what you need :
