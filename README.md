@@ -13,6 +13,15 @@ What we are doing is showing that this is possible, and possibility for other me
 
 Please be noted that this project not allowed to modify the WhatsApp Application Messaging (apk), so you must able to do converting data via Android Framework AOSP side, which is fully open source.
 
+# Interconnection With Your SIP Server ( READ THIS !!!! before you have idea of something )
+For inter connecting sip2wa to your ip pbx server or someone called it softswitch, this is what you need :
+a. IP PBX Server on the Internet with public IP. someone else with softphone or IP Phone that use random ip /4g internet or/and behind nat can connect As Extension (using user/pass) example 101 can dial to 102, no signaling issue, no audio issue. (What is softphone example: Microsip/LinPhone)
+b. When you dial to Person-A number whatsapp, Person-A will see calling from DEMO-B number, A wont have see call from President of USA number or any number you expected to be. DEMO-B number is WhatsApp number you register as Account in Sip2Wa app.
+c. You have IP PBX Server that capable someone with microsip or Linphone connect to your server as Extension. Using User and Password. You hear the audio coming from this extension, inbound/outbound.
+d. You cannot use trunk style ip to ip connection, sip2wa are an extension that use random ip.
+e. You have tested this demo below and its working in your environment.
+
+
 Stay tuned we will open a demo using public sip sample like sip.linphone.org and sip2sip.info, sip.antisip.com, we are looking people who want to invest this product to interconnect the existing openpbx service to add more interconnectivity like whatsapp.
 
 **The demo is ready, if you get busy signal means the single line of demo is still being used by other user. Please wait. You will get a message reply saying that the line busy, this is a sample for hunting like inbound system. Receive inbound altough already online-call. **
