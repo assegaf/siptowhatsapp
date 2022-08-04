@@ -31,7 +31,7 @@ For inter connecting sip2wa to your ip pbx server or someone called it softswitc
 
 **g. Try learn how whatsapp call on mobile phone work, if its work that way, our sip2wa system will work that way too. No Exception.**
 
-**h. Can it work this way, can it work that way ? ... read g. **
+**h. Can it work this way, can it work that way ? ... read g.**
 
 Stay tuned we will open a demo using public sip sample like sip.linphone.org and sip2sip.info, sip.antisip.com, we are looking people who want to invest this product to interconnect the existing openpbx service to add more interconnectivity like whatsapp.
 
