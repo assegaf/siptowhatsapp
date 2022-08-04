@@ -19,7 +19,7 @@ For inter connecting sip2wa to your ip pbx server or someone called it softswitc
 
 **a. IP PBX Server on the Internet with public IP. someone else with softphone or IP Phone that use random ip /4g internet or/and behind nat can connect As Extension (using user/pass) example 101 can dial to 102, no signaling issue, no audio issue. (What is softphone example: Microsip/LinPhone)**
 
-**b. When you dial to Person-A number whatsapp, Person-A will see calling from DEMO-B number, A wont have see call from President of USA number or any number you expected to be. DEMO-B number is WhatsApp number you register as Account in Sip2Wa app.**
+**b. When you dial to Person-A number whatsapp, Person-A will see calling from DEMO-B number, A will not see call from President of USA number or any number you expected to be. DEMO-B number is WhatsApp number you register as Account in Sip2Wa app.**
 
 **c. You have IP PBX Server that capable someone with microsip or Linphone connect to your server as Extension. Using User and Password. You hear the audio coming from this extension, inbound/outbound.**
 
