@@ -108,6 +108,14 @@ This is a sample how things work and logs of the process.
 
 # F.A.Q.
 
+**1. I want to buy license per Phone/Line. **
+Yes, we sell it license per phone/line for 100$. Requirement you can ask on Admin WhatsApp Number +628979993336 for required hardware and specific requirement eg. Unlock Phone Bootloader/Custom ROM etc. Great for IP PABX interconnection to WhatsApp SIP.
+There is also rent option per month for no hardware options. Great for IP PABX interconnection to WhatsApp SIP.
+
+**2. Bann issue **
+
+Same as you use whatsapp normally.
+
 **a. Sound Quality not as good as usually ?**
 
 this is demo is limited to use G711, which most free sip server capable and only use 8k bit sample rate, which is not HD Audio. so WhatsApp call audio quality is somehow degraded on the way. If not using free sip server, we use G722 codec which is HD Audio, seem much better.
