@@ -13,6 +13,15 @@ What we are doing is showing that this is possible, and possibility for other me
 
 Please be noted that this project not allowed to modify the WhatsApp Application Messaging (apk), so we must able to do converting data via Android Framework AOSP side, which is fully open source.
 
+Supported Android Phone : 
+- 30$ Xiaomi Redmi 4a (Rolex) / Redmi 5a (Riva)
+- 20$ Used HTC M8 (all variants)
+- 30$ Used HTC M10 (all variants)
+- Xiaomi Mi 4c .. 
+- Asus Zenfone Max Pro M1 (X00T X00TD)
+- on Request Unlocked Bootloader Android Phone ... (need time to develop and tweak)
+- Android X86 ROM (on request,price different, price is per package not per line)
+
 # Interconnection With Your SIP Server ( READ THIS !!!! before you have idea of something )
 For inter connecting sip2wa to your ip pbx server or someone called it softswitch, this is what you need :
 
