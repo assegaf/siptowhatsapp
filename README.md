@@ -27,9 +27,13 @@ For inter connecting sip2wa to your ip pbx server or someone called it softswitc
 
 You need to provide SIP User/Credential in your sip server:
 Public IP Address: eg. 103.100.1.XX
+
 Sip Server Port: eg. 5060
+
 Sip User: eg. sip2wa_1001
+
 Sip Password : eg. sip2wa_password
+
 
 Then You can dial sip user : sip2wa_1001 with The Caller, Caller ID, changed to destination B Number. example this dial plan in asterisk : 
 
