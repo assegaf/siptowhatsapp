@@ -25,7 +25,7 @@ Supported Android Phone :
 # Interconnection With Your SIP Server ( READ THIS !!!! before you have idea of something )
 For inter connecting sip2wa to your ip pbx server or someone called it softswitch, this is what you need :
 
-You need to provide SIP User/Credential in your sip server :
+You need to provide SIP User/Credential in your sip server to us if you want demo interconnection to us (with sip2wa) :
 
 Public IP Address: eg. 103.100.1.XX
 
@@ -35,8 +35,9 @@ Sip User: eg. sip2wa_1001
 
 Sip Password : eg. sip2wa_password
 
+we are under nat ip address, so make sure nat enabled for that user.
 
-Then You can dial sip user : sip2wa_1001 with The Caller, Caller ID, changed to destination B Number. example this dial plan in asterisk : 
+(after we set sip2wa to connect ) Then You can dial sip user : sip2wa_1001 with The Caller, Caller ID, changed to destination B Number. example this dial plan in asterisk : 
 
 same => n,Set(CALLERID(all)=${EXTEN})
 
