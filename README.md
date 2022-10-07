@@ -25,6 +25,17 @@ Supported Android Phone :
 # Interconnection With Your SIP Server ( READ THIS !!!! before you have idea of something )
 For inter connecting sip2wa to your ip pbx server or someone called it softswitch, this is what you need :
 
+You need to provide SIP User/Credential in your sip server:
+Public IP Address: eg. 103.100.1.XX
+Sip Server Port: eg. 5060
+Sip User: eg. sip2wa_1001
+Sip Password : eg. sip2wa_password
+
+Then You can dial sip user : sip2wa_1001 with The Caller, Caller ID, changed to destination B Number. example this dial plan in asterisk : 
+
+same => n,Set(CALLERID(all)=${EXTEN})
+
+
 
 **a. IP PBX Server on the Internet with public IP. someone else with softphone or IP Phone that use random ip /4g internet or/and behind nat can connect As Extension (using user/pass) example 101 can dial to 102, no signaling issue, no audio issue. (What is softphone example: Microsip/LinPhone)**
 
