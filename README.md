@@ -25,7 +25,8 @@ Supported Android Phone :
 # Interconnection With Your SIP Server ( READ THIS !!!! before you have idea of something )
 For inter connecting sip2wa to your ip pbx server or someone called it softswitch, this is what you need :
 
-You need to provide SIP User/Credential in your sip server:
+You need to provide SIP User/Credential in your sip server :
+
 Public IP Address: eg. 103.100.1.XX
 
 Sip Server Port: eg. 5060
