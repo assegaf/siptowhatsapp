@@ -41,7 +41,7 @@ we are under nat ip address, so make sure nat enabled for that user.
 
 same => n,Set(CALLERID(all)=${EXTEN})
 
-
+Set codec to G722 for HD Audio Quality, not G711 Low Quality
 
 **a. IP PBX Server on the Internet with public IP. someone else with softphone or IP Phone that use random ip /4g internet or/and behind nat can connect As Extension (using user/pass) example 101 can dial to 102, no signaling issue, no audio issue. (What is softphone example: Microsip/LinPhone)**
 
