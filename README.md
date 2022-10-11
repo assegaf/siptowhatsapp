@@ -166,7 +166,7 @@ We provide non-cli solution per minute, as SIP Trunk, price varies per country. 
 **f. What is the limitation talk time or number of call ?**
 
 Whatsapp never limit your call time, because its peer to peer call. so You can have unlimited talk time, longer is better.
-But as a service, whatsapp maybe limit total of call dialed, so you can control yourself how many unique call per hour/day/etc ...
+But as a service, whatsapp maybe limit total of call unique number to be dialed, so you can control yourself how many unique call per hour/day/etc ...
 
 **g. What is the limitation for Dedicated Services (unlimited call inbound/outbound).**
 
