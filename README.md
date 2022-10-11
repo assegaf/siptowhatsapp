@@ -163,7 +163,12 @@ Yes, you can test our dedicated service using your own whatsapp account, we host
 
 We provide non-cli solution per minute, as SIP Trunk, price varies per country. Contact us for pricing.
 
-**f. What is the limitation for Dedicated Services (unlimited call inbound/outbound).**
+**f. What is the limitation talk time or number of call ?**
+
+Whatsapp never limit your call time, because its peer to peer call. so You can have unlimited talk time, longer is better.
+But as a service, whatsapp maybe limit total of call dialed, so you can control yourself how many unique call per hour/day/etc ...
+
+**g. What is the limitation for Dedicated Services (unlimited call inbound/outbound).**
 
 We provide the dedicated services means the whatsapp number account is from the customer it self, it commonly used for inbound/outbound PABX. So customer responsible for the outgoing call number that will affect the account life. Example customer can put limitation only allow outgoing call to X after has minimal once, inbound call or message from X previously. If people report the whatsapp account number as it receiving call without previously saved the number, its affect its account lifecycle.
 
