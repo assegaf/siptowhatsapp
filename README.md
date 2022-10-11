@@ -18,8 +18,8 @@ Supported Android Phone :
 - 20$ Used HTC M8 (all variants)
 - 30$ Used HTC M10 (all variants)
 - Xiaomi Mi 4c .. 
-- Asus Zenfone Max Pro M1 (X00T X00TD)
-- on Request Unlocked Bootloader Android Phone ... (need time to develop and tweak)
+- Asus Zenfone Max Pro M1 (X00T X00TD) (Recommended, Price is Good and Quality)
+- on Request Android Phone Manufacturer X - Model Y. ... (need time to develop and tweak, best to buy multiline)
 - Android X86 ROM (on request,price different, price is per package not per line)
 
 # Interconnection With Your SIP Server ( READ THIS !!!! before you have idea of something )
