@@ -47,7 +47,7 @@ Set codec to G722 for HD Audio Quality, not G711 Low Quality
 
 **b. When you dial to Person-A number whatsapp, Person-A will see calling from DEMO-B number, A will not see call from President of USA number or any number you expected to be. DEMO-B number is WhatsApp number you register as Account in Sip2Wa app.**
 
-**c. You have IP PBX Server that capable someone with microsip or Linphone connect to your server as Extension. Using User and Password. You hear the audio coming from this extension, inbound/outbound. Codec must be set to G722 for HD Audio, or G711 ULAW for Low Quality Audio. **
+**c. You have IP PBX Server that capable someone with microsip or Linphone connect to your server as Extension. Using User and Password. You hear the audio coming from this extension, inbound/outbound. Codec must be set to G722 for HD Audio, or G711 ULAW for Low Quality Audio.**
 
 **d. You cannot use trunk style ip to ip connection, sip2wa are an extension that use random ip.**
 
