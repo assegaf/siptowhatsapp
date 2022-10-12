@@ -141,7 +141,7 @@ There is also rent option per month for no hardware options. Great for IP PABX i
 
 **2. What Account / SIM Card to use for best quality?**
 
-We Recommended you use old account to be best account live, at least 1 month account and has been doing normal thing an account usually do like messaging friend, receiving message or call and joining group, doing things you usually do. We dont recommended using new fresh account especially virtual sim that recycled over from people. 
+We Recommended you use old account to be best account live, at least 1 month account and has been doing normal thing an account usually do like messaging friend, receiving message or call and joining group, doing things you usually do. We dont recommended using new fresh account especially virtual sim that recycled over from people. And dont dial GSM number but dial WhatsApp number, you are using sip2whatsapp nor sip2gsm ...
 
 **3. Bann issue **
 
