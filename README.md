@@ -139,9 +139,13 @@ This is a sample how things work and logs of the process.
 Yes, we sell it license per phone/line for 100$. Requirement you can ask on Admin WhatsApp Number +628979993336 for required hardware and specific requirement eg. Unlock Phone Bootloader/Custom ROM etc. Great for IP PABX interconnection to WhatsApp SIP.
 There is also rent option per month for no hardware options. Great for IP PABX interconnection to WhatsApp SIP.
 
-**2. Bann issue **
+**2. What Account / SIM Card to use for best quality?**
 
-Same as you use whatsapp normally.
+We Recommended you use old account to be best account live, at least 1 month account and has been doing normal thing an account usually do like messaging friend, receiving message or call and joining group, doing things you usually do. We dont recommended using new fresh account especially virtual sim that recycled over from people. 
+
+**3. Bann issue **
+
+Same as you use whatsapp normally. No modification on whatsapp
 
 **a. Sound Quality not as good as usually ?**
 
