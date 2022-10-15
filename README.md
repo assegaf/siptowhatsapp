@@ -179,10 +179,18 @@ We provide the dedicated services means the whatsapp number account is from the 
 Downtime, when our internet connection is down, we also will experience the same service downtime. No Exception, best server for IP PBX Server nearby is Singapore. Keep it in mind.
 
 
-
 # on going
 
 on going process .. is adding SIP to GSM Gateway from inside android (4G Lte), everything is there on AOSP just need little bit tweaking :) similar to this : https://www.pure-voip.com/ . sooner or later 2g/3g will be dead, and 4g still long ..
 
-investment, etc .. 
+Need Investment to add premium feature :
+- Multiple WhatsApp account on single devices, auto rotate between accounts on specific demand/requirement.
+- WhatsApp business and WhatsApp private simulaniously, rotate etc.
+- Monitoring multiple line /tenant.
+- Profile Picture changes, 
+- Auto reply message on busy line
+- Custom quick access
+- Voice Broadcast using text to speech (custom language).
+- 
 
+Contact us to exchange investment to deployment/lines.
