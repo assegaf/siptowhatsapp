@@ -22,6 +22,10 @@ Supported Android Phone :
 - on Request Android Phone Manufacturer X - Model Y. ... (need time to develop and tweak, best to buy multiline)
 - Android X86 ROM (on request,price different, price is per package not per line)
 
+# Contact person for demo/inquiry our service 
+
+(we sell per line, per minute service or rent our device/app with remote access ) : Call WA +628979993336 Din 
+
 # Interconnection With Your SIP Server ( READ THIS !!!! before you have idea of something )
 For inter connecting sip2wa to your ip pbx server or someone called it softswitch, this is what you need :
 
