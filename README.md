@@ -140,7 +140,7 @@ This is a sample how things work and logs of the process.
 
 **1. I want to buy license per Phone/Line.**
 
-Yes, we sell it license per phone/line for 100$. Requirement you can ask on Admin WhatsApp Number +628979993336 for required hardware and specific requirement eg. Unlock Phone Bootloader/Custom ROM etc. Great for IP PABX interconnection to WhatsApp SIP.
+Yes, we sell it license per phone/line for -unspecified- $. Requirement you can ask on Admin WhatsApp Number +628979993336 for required hardware and specific requirement eg. Unlock Phone Bootloader/Custom ROM etc. Great for IP PABX interconnection to WhatsApp SIP.
 There is also rent option per month for no hardware options. Great for IP PABX interconnection to WhatsApp SIP.
 
 **2. What Account / SIM Card to use for best quality?**
