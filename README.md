@@ -151,6 +151,11 @@ We Recommended you use old account to be best account live, at least 1 month acc
 
 Same as you use whatsapp normally. No modification on whatsapp
 
+**a. How many concurrent calls I can make for every line I rent ?**
+
+1 Line/Port you rent can call 1 concurrent calls, for inbound or outbound not silmultaniously.
+
+
 **a. Sound Quality not as good as usually ?**
 
 this is demo is limited to use G711, which most free sip server capable and only use 8k bit sample rate, which is not HD Audio. so WhatsApp call audio quality is somehow degraded on the way. If not using free sip server, we use G722 codec which is HD Audio, seem much better.
