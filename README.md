@@ -31,6 +31,8 @@ For inter connecting sip2wa to your ip pbx server or someone called it softswitc
 
 You need to provide SIP User/Credential in your sip server to us if you want demo interconnection to us (with sip2wa) :
 
+Company name or Alias (just for connection name) : eg. SuperTop Telco.
+
 Public IP Address: eg. 103.100.1.XX
 
 Sip Server Port: eg. 5060
@@ -41,7 +43,7 @@ Sip Password : eg. sip2wa_password
 
 we are under nat ip address, so make sure nat enabled for that user. Make sure you softswitch/sip server, support calling to sip account with nat (dont have public ip address).
 
-We will provide prefix to dial ..
+We will provide prefix to dial .. (example : 00111) usually 5 digit prefix, then you can dial with country code like : 00111628979993336  ( 62 is country code Indonesia)
 
 
 
