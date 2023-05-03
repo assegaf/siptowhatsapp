@@ -39,7 +39,11 @@ Sip User: eg. sip2wa_1001
 
 Sip Password : eg. sip2wa_password
 
-we are under nat ip address, so make sure nat enabled for that user.
+we are under nat ip address, so make sure nat enabled for that user. Make sure you softswitch/sip server, support calling to sip account with nat (dont have public ip address).
+
+We will provide prefix to dial ..
+
+
 
 (after we set sip2wa to connect ) Then You can dial sip user : sip2wa_1001 with The Caller, Caller ID, changed to destination B Number. example this dial plan in asterisk : 
 
