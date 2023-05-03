@@ -31,7 +31,7 @@ For inter connecting sip2wa to your ip pbx server or someone called it softswitc
 
 You need to provide SIP User/Credential in your sip server to us if you want demo interconnection to us (with sip2wa) :
 
-Company name or Alias (just for connection name) : eg. SuperTop Telco.
+Company name or Alias (just for connection name in our system) : eg. SuperTop Telco.
 
 Public IP Address: eg. 103.100.1.XX
 
