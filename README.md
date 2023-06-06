@@ -45,13 +45,19 @@ we are under nat ip address, so make sure nat enabled for that user. Make sure y
 
 We will provide prefix to dial .. (example : 00111) usually 5 digit prefix, then you can dial with country code like : 00111628979993336  ( 62 is country code Indonesia)
 
+Set codec to G722 for HD Audio Quality (wideband), Its recommended because WhatsApp use 16k sample rate.
+There is always customer who want low quality audio (narrowband 8k samplerate), use G711 ULAW Codec.
+
+We dont support any other codec.
+
+
 
 
 (after we set sip2wa to connect ) Then You can dial sip user : sip2wa_1001 with The Caller, Caller ID, changed to destination B Number. example this dial plan in asterisk : 
 
 same => n,Set(CALLERID(all)=${EXTEN})
 
-Set codec to G722 for HD Audio Quality, not G711 Low Quality
+
 
 **a. IP PBX Server on the Internet with public IP. someone else with softphone or IP Phone that use random ip /4g internet or/and behind nat can connect As Extension (using user/pass) example 101 can dial to 102, no signaling issue, no audio issue. (What is softphone example: Microsip/LinPhone)**
 
