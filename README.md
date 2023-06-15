@@ -50,7 +50,12 @@ There is always customer who want low quality audio (narrowband 8k samplerate), 
 
 We dont support any other codec.
 
-Please be noted we dont accept voice broadcast system which do multiple lot of calls in same time. which usually ACD less than 1 minute, we dont accept this request.
+Please be noted we dont accept 
+- voice broadcast do multiple lot of calls in same time. which usually ACD less than 1 minute, 
+- OTP Voice 
+- IVR Blast/ Automation/ Automatic Dialer
+
+we dont accept this request.
 
 
 (after we set sip2wa to connect ) Then You can dial sip user : sip2wa_1001 with The Caller, Caller ID, changed to destination B Number. example this dial plan in asterisk : 
