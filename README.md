@@ -57,6 +57,9 @@ Please be noted we dont accept
 
 we dont accept this request.
 
+We provide per minutes for Outbound Non CLI to WhatsApp Voice call.
+Please inform us Country (+Country telephone code) and Estimated Price perminutes. Usually we assign port(s) and assign more depend on asr/acd and we accept USDT payment or wise.com postpaid weekly.
+
 
 (after we set sip2wa to connect ) Then You can dial sip user : sip2wa_1001 with The Caller, Caller ID, changed to destination B Number. example this dial plan in asterisk : 
 
