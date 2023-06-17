@@ -116,14 +116,6 @@ b. After introduction you will be asked to put destination number via dial pad (
 both way will dial the whatsapp destination number, until you hang up the call (in your sip session call) or destination whatsapp account hang up first.
 
 
-# sip.linphone.org
-
-You can register here https://www.linphone.org/freesip/home for sip free account,
-The destination of call of whatsapp number is the same method as above, to put in Display name or Caller ID, or dial via DTMF tones while on call. You can dial account "sip2wa" as picture sample below, to start testing our Sip to WhatsApp gateway.
-
-![linphone_sip2wa_dial](https://user-images.githubusercontent.com/551532/172809395-e875c9ab-c364-433a-9be4-7b061e93c4df.png)
-
-
 # sip.antisip.com
 
 You can register here https://sip.antisip.com/service/ for sip free account,
@@ -133,17 +125,14 @@ The destination of call of whatsapp number is the same as above, to put in Displ
 
 # Voice Inbound testing
 
-You can dial our whatsapp number account +62 858 8131 3764 for testing our inbound routing, we will auto accept the call and will be forwarded to our Openpbx Dial plan for voice testing auto reply, this is a prof that we can use inbound too for showing voice reply and further action can be defined, example: forwarding to predefined extension on PBX system.
+You can dial our whatsapp number account +22540230119 for testing our inbound routing, we will auto accept the call and will be forwarded to our Openpbx Dial plan for voice testing auto reply, this is a prof that we can use inbound too for showing voice reply and further action can be defined, example: forwarding to predefined extension on PBX system.
 
 Our whatsapp inbound will be alive from now on, until we say otherwise
 
 
 # Messaging Inbound testing
 
-For messaging inbound, we forward the private's message this number (as message inbound) to the first group its registered to, to that it will notice all member of group (eg. one department) there is incoming new message inbound to this number, so that member can follow up with quoted message or dial up from sip2whatsapp gateway pabx. You can message our whatsapp number for a test as a guest/customer, +62 858 8131 3764 
-
-
-
+For messaging inbound, we forward the private's message this number (as message inbound) to the first group its registered to, to that it will notice all member of group (eg. one department) there is incoming new message inbound to this number, so that member can follow up with quoted message or dial up from sip2whatsapp gateway pabx. You can message our whatsapp number for a test as a guest/customer, +22540230119
 
 
 # Conclusion
