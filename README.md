@@ -54,6 +54,9 @@ Please be noted we dont accept
 - voice broadcast do multiple lot of calls in same time. which usually ACD less than 1 minute, 
 - OTP Voice 
 - IVR Blast/ Automation/ Automatic Dialer
+- Dont cut call/force hangup before ended by sip2wa server, if you do this twice, will be rejected call for entire day.
+- If called person offline, then third call will be rejected automatocally.
+- For non whatsapp, will be rejected automatically (we save non whatsapp database)
 
 we dont accept this request.
 
