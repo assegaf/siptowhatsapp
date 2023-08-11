@@ -48,20 +48,29 @@ We will provide prefix to dial .. (example : 00111) usually 5 digit prefix, then
 Set codec to G722 for HD Audio Quality (wideband), Its recommended because WhatsApp use 16k sample rate.
 There is always customer who want low quality audio (narrowband 8k samplerate), use G711 ULAW Codec.
 
+Please noted : after we confirm you sip credentials is ok and registered, use that credential as trunk to dial with prefix 00123 like :
+1. 00123628979993336 to dial test for introduction voice and echo test , to make sure voice is ok both ways.
+2. confirm you own prefix for dial to your own route calls.
+3. Monitor for profile/codec issue, usually hangup after 1-2 seconds. we dont accept many profile/codec issue attempt.
+
+
 We dont support any other codec.
 
 Please be noted we dont accept 
-- voice broadcast do multiple lot of calls in same time. which usually ACD less than 1 minute, 
-- OTP Voice 
-- IVR Blast/ Automation/ Automatic Dialer
-- Dont cut call/force hangup before ended by sip2wa server, if you do this twice, will be rejected call for entire day.
-- If called person offline, then third call will be rejected automatocally.
-- For non whatsapp, will be rejected automatically (we save non whatsapp database)
+1. voice broadcast do multiple lot of calls in same time. which usually ACD less than 1 minute, 
+2. OTP Voice 
+3. IVR Blast/ Automation/ Automatic Dialer
+4. Dont cut call/force hangup before ended by sip2wa server, if you do this twice, will be rejected call for entire day.5
+5. If called person offline, then third call will be rejected automatocally.
+6. For non whatsapp, will be rejected automatically (we save non whatsapp database)
 
 we dont accept this request.
 
 We provide per minutes for Outbound Non CLI to WhatsApp Voice call.
 Please inform us Country (+Country telephone code) and Estimated Price perminutes. Usually we assign port(s) and assign more depend on asr/acd and we accept USDT payment or wise.com postpaid weekly.
+
+
+
 
 
 (after we set sip2wa to connect ) Then You can dial sip user : sip2wa_1001 with The Caller, Caller ID, changed to destination B Number. example this dial plan in asterisk : 
