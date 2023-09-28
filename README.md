@@ -24,7 +24,7 @@ Supported Android Phone :
 
 # Contact person for demo/inquiry our service 
 
-(we sell per line, per minute service or rent our device/app with remote access ) : Call WA +628979993336 Din 
+(we sell per minute service or rent our device/app with remote access ) : Call WA +628979993336 Din 
 
 # Interconnection With Your SIP Server ( READ THIS !!!! before you have idea of something )
 For inter connecting sip2wa to your ip pbx server or someone called it softswitch, this is what you need :
@@ -159,9 +159,9 @@ This is a sample how things work and logs of the process.
 
 # F.A.Q.
 
-**1. I want to buy license per Phone/Line.**
+**1. I want to buy license unlimited license and possibly for continue the development.**
 
-Yes, we sell it license per phone/line for -unspecified- $. Requirement you can ask on Admin WhatsApp Number +628979993336 for required hardware and specific requirement eg. Unlock Phone Bootloader/Custom ROM etc. Great for IP PABX interconnection to WhatsApp SIP.
+Yes, we sell it license deployment at high price and efforts. Requirement and price you can ask on Admin WhatsApp Number +628979993336 for required hardware and specific requirement eg. Unlock Phone Bootloader/Custom ROM etc. Great for IP PABX interconnection to WhatsApp SIP.
 There is also rent option per month for no hardware options. Great for IP PABX interconnection to WhatsApp SIP.
 
 **2. What Account / SIM Card to use for best quality?**
