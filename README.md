@@ -57,20 +57,23 @@ Please noted : after we confirm you sip credentials is ok and registered, use th
 We dont support any other codec.
 
 Please be noted we dont accept 
-1. voice broadcast do multiple lot of calls in same time. which usually ACD less than 1 minute, 
-2. OTP Voice 
-3. IVR Blast/ Automation/ Automatic Dialer
-4. Dont cut call/force hangup before ended by sip2wa server, if you do this twice, will be rejected call for entire day.5
-5. If called person offline, then third call will be rejected automatocally.
-6. For non whatsapp, will be rejected automatically (we save non whatsapp database)
+no 1. voice broadcast do multiple lot of calls in same time. which usually ACD less than 1 minute, 
+no 2. OTP Voice 
+no 3. IVR Blast/ Automation/ Automatic Dialer
+no 4. Dont cut call/force hangup before ended by sip2wa server, if you do this twice, will be rejected call for entire day.5
+no 5. If called person offline, then third call will be rejected automatocally.
+no 6. For non whatsapp, will be rejected automatically (we save non whatsapp database)
 
 we dont accept this request.
 
 We provide per minutes for Outbound Non CLI to WhatsApp Voice call.
 Please inform us Country (+Country telephone code) and Estimated Price perminutes. Usually we assign port(s) and assign more depend on asr/acd and we accept USDT payment or wise.com postpaid weekly.
 
-
-
+Sip code result for different result of calls.
+Sip code 200 , normal answer
+Sip code 488, for non whatsapp dial result.
+Sip code 503, filtered / rejected call like in no 4, 5 and 6 filter.
+Sip code 486 for offline phone (after 15-20s try), or voice call that rejected by whatsapp user (callee).
 
 
 (after we set sip2wa to connect ) Then You can dial sip user : sip2wa_1001 with The Caller, Caller ID, changed to destination B Number. example this dial plan in asterisk : 
