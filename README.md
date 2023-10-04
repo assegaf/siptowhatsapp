@@ -60,9 +60,9 @@ Please be noted we dont accept
 1. no 1. voice broadcast do multiple lot of calls in same time. which usually ACD less than 1 minute, 
 2. no 2. OTP Voice 
 3. no 3. IVR Blast/ Automation/ Automatic Dialer
-4. no 4. Dont cut call/force hangup before ended by sip2wa server, if you do this twice, will be rejected call for entire day.5
-5. no 5. If called person offline, then third call will be rejected automatocally.
-6. no 6. For non whatsapp, will be rejected automatically (we save non whatsapp database)
+4. no 4. [Filtered call] Dont cut call/force hangup before ended by sip2wa server, if you do this twice, will be rejected call for entire day.5
+5. no 5. [Filtered call] If called person offline, then third call will be rejected automatocally.
+6. no 6. [Filtered call] For non whatsapp, will be rejected automatically (we save non whatsapp database)
 
 we dont accept this request.
 
