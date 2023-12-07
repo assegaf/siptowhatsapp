@@ -53,6 +53,12 @@ Please noted : after we confirm you sip credentials is ok and registered, use th
 2. confirm you own prefix for dial to your own route calls.
 3. Monitor for profile/codec issue, usually hangup after 1-2 seconds. we dont accept many profile/codec issue attempt.
 
+Rules :
+1. - Dont set or having setting auto hangup in X sec if no ring, we will do auto hangup ourself if the person if offline after 15-20second,
+2. - will auto hangup in 1-4 seconds if after processed is non whatsapp,
+3. - will auto hangup in 1 second if filtered like already in Non WhatsApp database, or any other filter.
+4. - If the call is still ringing after 20 seconds it mean the person in WhatsApp and Online, and the whatsapp phone is ringing but not yet answered.
+5  -   
 
 We dont support any other codec.
 
