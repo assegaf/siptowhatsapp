@@ -59,6 +59,7 @@ Rules :
 3. - will auto hangup in 1 second if filtered like already in Non WhatsApp database, or any other filter.
 4. - If the call is still ringing after 20 seconds it mean the person in WhatsApp and Online, and the whatsapp phone is ringing but not yet answered.
 5. - We will remove/stop the traffic if not follow this rules.
+6. - Always monitor for codec/rtc issue on call that answered but hangup in 1-2 seconds, mean having issue from many reason, 1%-8% of traffic is normal, but higher is mean have problem from your side.
 
 We dont support any other codec.
 
